@@ -1,0 +1,402 @@
+.campaigndetail-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F8F8F8;
+  }
+  .campaigndetail-image60 {
+    width: 974px;
+    height: 649px;
+    display: flex;
+    align-items: flex-start;
+    background-size: cover;
+    justify-content: flex-start;
+    background-image: url('/asset/img/tennis_personal.webp');
+    background-position: center;
+  }
+  .campaigndetail-frameiconarrowleftcircled {
+    width: 50px;
+    height: 47.72711181640625px;
+    margin: 1rem;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .campaigndetail-navlink {
+    display: contents;
+  }
+  .campaigndetail-vector {
+    top: 0px;
+    left: 0px;
+    width: 50px;
+    height: 48px;
+    margin: 1rem;
+    position: absolute;
+    text-decoration: none;
+  }
+  .campaigndetail-vector1 {
+    top: 15.511333465576172px;
+    left: 15px;
+    width: 20px;
+    height: 17px;
+    margin: 1rem;
+    position: absolute;
+  }
+  .campaigndetail-card {
+    width: 974px;
+    height: 215px;
+    display: flex;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .campaigndetail-container1 {
+    width: 914px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .campaigndetail-text {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-start;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-text02 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-start;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-bottom: 2rem;
+    text-decoration: none;
+  }
+  .campaigndetail-container2 {
+    flex: 0 0 auto;
+    width: 914px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .campaigndetail-container3 {
+    flex: 0 0 auto;
+    width: 914px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .campaigndetail-container4 {
+    flex: 0 0 auto;
+    width: 914px;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .campaigndetail-rectangle160 {
+    width: 914px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    background-size: cover;
+    justify-content: flex-start;
+    background-image: url("/asset/img/rectangle1602624-pwzt-200h.png");
+    background-position: center;
+  }
+  .campaigndetail-rectangle161 {
+    width: 357px;
+    height: 15px;
+    border-radius: 25px;
+  }
+  .campaigndetail-text04 {
+    color: rgba(0, 0, 0, 1);
+    width: 372px;
+    height: auto;
+    font-size: 20px;
+    align-self: flex-start;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-text06 {
+    color: rgba(0, 0, 0, 1);
+    width: 372px;
+    height: auto;
+    font-size: 20px;
+    align-self: flex-end;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-card1 {
+    width: 974px;
+    height: 215px;
+    display: flex;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    margin-top: 1rem;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .campaigndetail-container5 {
+    width: 914px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .campaigndetail-text08 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-start;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-text10 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-end;
+    font-style: Bold;
+    margin-top: -2rem;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-li {
+    width: 896px;
+    list-style: circle;
+    margin-right: 5px;
+  }
+  .campaigndetail-text13 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-end;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 33.5rem;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-card2 {
+    width: 974px;
+    height: 215px;
+    display: flex;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    margin-top: 1rem;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .campaigndetail-container6 {
+    width: 914px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .campaigndetail-text15 {
+    color: rgb(0, 0, 0);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-start;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-text16 {
+    color: rgb(0, 0, 0);
+    height: auto;
+    font-size: 14px;
+    font-style: Regular;
+    margin-top: 1rem;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-card3 {
+    width: 974px;
+    height: 215px;
+    display: flex;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    margin-top: 1rem;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .campaigndetail-container7 {
+    width: 914px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .campaigndetail-text20 {
+    color: rgb(0, 0, 0);
+    height: auto;
+    font-size: 20px;
+    align-self: flex-start;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-li1 {
+    align-self: flex-start;
+    margin-top: 1rem;
+    margin-left: 2rem;
+  }
+  .campaigndetail-text22 {
+    color: rgb(0, 0, 0);
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 37.5rem;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-text24 {
+    font-size: 16px;
+  }
+  .campaigndetail-li2 {
+    align-self: flex-start;
+    margin-left: 2rem;
+  }
+  .campaigndetail-text26 {
+    color: rgb(0, 0, 0);
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 39rem;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-rectangle174 {
+    width: 100%;
+    height: 106px;
+    display: flex;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    align-items: center;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+    justify-content: center;
+    background-color: #ffffff;
+  }
+  .campaigndetail-rectangle176 {
+    width: 401px;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    border-color: rgba(3, 0, 0, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    background-size: cover;
+    justify-content: center;
+    background-image: url("/asset/img/rectangle1762624-n2o7-500w.png");
+    background-position: center;
+  }
+  .campaigndetail-share {
+    width: 44px;
+    height: 50px;
+  }
+  .campaigndetail-text29 {
+    color: rgba(0, 0, 0, 1);
+    width: 182px;
+    height: auto;
+    font-size: 32px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .campaigndetail-rectangle175 {
+    width: 401px;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    margin-left: 2rem;
+    border-radius: 50px;
+    background-size: cover;
+    justify-content: center;
+    background-image: url("/asset/img/rectangle1752624-u3d8-200h.png");
+    background-position: center;
+  }
+  .campaigndetail-text31 {
+    color: rgba(255, 255, 255, 1);
+    width: 203px;
+    height: auto;
+    font-size: 32px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
