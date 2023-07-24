@@ -1,0 +1,351 @@
+.prestasi-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: #B21E1E;
+  }
+  .prestasi-navbar {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    position: relative;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    align-items: flex-start;
+    flex-shrink: 1;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .prestasi-container1 {
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .prestasi-text {
+    color: rgba(0, 0, 0, 1);
+    width: 128px;
+    height: auto;
+    font-size: 20px;
+    align-self: center;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 1rem;
+    text-decoration: none;
+  }
+  .prestasi-text02 {
+    color: rgb(0, 0, 0);
+    width: 77px;
+    height: auto;
+    font-size: 20px;
+    align-self: center;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 1rem;
+    text-decoration: none;
+  }
+  .prestasi-text03 {
+    color: rgb(255, 0, 0);
+    width: 187px;
+    height: auto;
+    font-size: 32px;
+    align-self: center;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text04 {
+    color: #ff0000;
+  }
+  .prestasi-text05 {
+    color: #000000;
+  }
+  .prestasi-text06 {
+    color: rgba(0, 0, 0, 1);
+    width: 79px;
+    height: auto;
+    font-size: 20px;
+    align-self: center;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 1rem;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text08 {
+    color: rgba(0, 0, 0, 1);
+    width: 144px;
+    height: auto;
+    font-size: 20px;
+    align-self: center;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 1rem;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-bar {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(178, 30, 30, 0.78);
+  }
+  .prestasi-text10 {
+    color: rgba(255, 255, 255, 1);
+    width: 131px;
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text12 {
+    color: rgba(255, 255, 255, 1);
+    width: 131px;
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text14 {
+    color: rgb(255, 255, 255);
+    width: 85px;
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text15 {
+    color: rgba(255, 255, 255, 1);
+    width: 128px;
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text17 {
+    color: rgba(255, 255, 255, 1);
+    width: 128px;
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text19 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    margin: 2rem;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text20 {
+    color: rgba(255, 255, 255, 1);
+  }
+  .prestasi-text21 {
+    color: rgba(255, 0, 0, 1);
+  }
+  .prestasi-text22 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .prestasi-container2 {
+    flex: 0 0 auto;
+    width: auto;
+    height: 464px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .prestasi-container3 {
+    flex: 0 0 auto;
+    width: auto;
+    height: 464px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .prestasi-rectangle16 {
+    width: 348px;
+    height: 464px;
+    display: flex;
+    align-self: flex-start;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+    background-size: cover;
+    justify-content: center;
+    background-image: url('/asset/img/white.png');
+    background-position: center;
+  }
+  .prestasi-image5 {
+    width: 323px;
+    height: 258px;
+    align-self: center;
+  }
+  .prestasi-text24 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: center;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text26 {
+    color: rgba(0, 0, 0, 1);
+    width: 323px;
+    height: auto;
+    font-size: 12px;
+    align-self: center;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-rectangle17 {
+    width: 348px;
+    height: 464px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+    background-size: cover;
+    justify-content: center;
+    background-image: url('/asset/img/white.png');
+    background-position: center;
+  }
+  .prestasi-image12 {
+    width: 326px;
+    height: 239px;
+    border-radius: 5px;
+  }
+  .prestasi-text28 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text30 {
+    color: rgba(0, 0, 0, 1);
+    width: 323px;
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-rectangle20 {
+    width: 348px;
+    height: 464px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+    background-size: cover;
+    justify-content: center;
+    background-image: url('/asset/img/white.png');
+    background-position: center;
+  }
+  .prestasi-image15 {
+    width: 321px;
+    height: 239px;
+    border-radius: 5px;
+  }
+  .prestasi-text32 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .prestasi-text34 {
+    color: rgba(0, 0, 0, 1);
+    width: 323px;
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
