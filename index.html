@@ -13,7 +13,7 @@
 
     <!-- Fontawesome Link for Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-    <title>Landing</title>s
+    <title>Landing</title>
 </head>
 <body>
     <header class="bg-transparent absolute top-0 left-0 w-full flex items-center z-10">
@@ -38,7 +38,7 @@
                     <div class="offcanvas-body">
                         <ul class="navbar-nav" id="menu" style="padding-left: 30%; font-size:20px;">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#konten1">Campaign</a>
+                                <a class="nav-link active" aria-current="page" href="/page/campaign.html">Dukung Atlet</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" href="#about">Prestasi</a>
@@ -47,10 +47,7 @@
                                     <a class="brand" style="color:white;" href="#https://www.youtube.com"><span>Mimpi</span>Atlet</a>
                                 </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#about">Sejarah</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" href="#skill">Berita prestasi</a>
+                                <a class="nav-link active" href="/page/berita_prestasi.html">Berita prestasi</a>
                             </li>
                         </ul>
                     </div>
@@ -280,9 +277,11 @@
         var nav = document.querySelector('nav');
         window.addEventListener('scroll', function () {
             if (window.pageYOffset > 100) {
-                nav.classList.add('bg-dark', 'shadow');
+                nav.classList.add('bg-light', 'navbar-light', 'shadow');
+                nav.classList.remove('navbar-dark');
             } else {
-                nav.classList.remove('bg-dark', 'shadow');
+                nav.classList.remove('bg-light', 'navbar-light', 'shadow');
+                nav.classList.add('navbar-dark');
             }
         });
     </script>
